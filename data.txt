@@ -1,3 +1,3 @@
 this is a sample text file.
-//add by shubham saxena on 27-08-2022.
+add by shubham saxena on 27-08-2022.
 third line added by someone from the team.
